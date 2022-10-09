@@ -1222,7 +1222,8 @@ transition: transform 250ms var(--timing-function), color 250ms var(--timing-fun
 .shema-link {
   display: block;
   text-align: center;
-  margin-right: -15px;
+  margin-right: -10px;
+  margin-left: -10px;
   color: var(--title-text-color);
 }
 
